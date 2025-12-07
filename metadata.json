@@ -1,0 +1,5 @@
+{
+  "name": "AI Git Tutor",
+  "description": "An AI-powered tool that turns confusing Git history into clear, educational narratives. Analyze commits, visualize evolution, and chat with your codebase.",
+  "requestFramePermissions": []
+}
